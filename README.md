@@ -14,7 +14,7 @@ This project contains a Userscript developed to enhance the shopping experience 
 #### GETTING STARTED
 To use this Userscript, you'll need a Userscript manager like Tampermonkey installed in your browser. Once set up, you can add the script to your browser and configure it as needed.
 
-###### INSTALLATION
+#### INSTALLATION
 1. Install [Tampermonkey](https://www.tampermonkey.net) (or a similar Userscript manager) for your browser.
 2. Open the Userscript you wish to install (`brand-filter-v1.user.js` or `brand-filter-v2.user.js`).
 3. Copy the script's content and add it to your Userscript manager.
@@ -24,9 +24,9 @@ To use this Userscript, you'll need a Userscript manager like Tampermonkey insta
 - **Version 1.0**: Initial version with basic functionality to hide brands based on a predefined list.
 - **Version 2.0**: Enhanced version using mutation observers for better performance and layout adjustments after removing elements.
 
-#### Acknowledgements
+#### ACKNOWLEDGEMENTS
 - Thanks to [remixshop.com](https://remixshop.com/) for providing a platform that inspired this project.
 - Appreciation for the Userscript community for the invaluable resources.
 
-#### Contributing
+#### CONTRIBUTING
 <i> Feedback and contributions are welcome! If you have suggestions for improvement or new features, feel free to open an issue or submit a pull request. </i>
