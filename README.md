@@ -1,4 +1,4 @@
-<i> As an enthusiast of vintage fashion and second-hand clothes, I found myself spending too much time sifting through brands that didn't interest. The absence of a feature to filter out unwanted brands prompted me to create a solution tailored to my needs. This script stems from a personal necessity to streamline my online shopping experience, focusing solely on the brands that align with my taste without the hassle of navigating through those that don't. It saves me a great deal of time :-) </i>
+<i> As an enthusiast of vintage fashion and second-hand clothes, I found myself spending too much time sifting through brands that didn't interest me. The absence of a feature to filter out unwanted brands prompted me to create a solution tailored to my needs. This script stems from a personal necessity to streamline my online shopping experience, focusing solely on the brands that align with my taste without the hassle of navigating through those that don't. It saves me a great deal of time :-) </i>
 
 
 #### OVERVIEW
