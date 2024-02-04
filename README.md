@@ -2,7 +2,7 @@
 
 
 #### OVERVIEW
-This project contains a Userscript developed to enhance the shopping experience on [remixshop.com](https://remixshop.com/) <b> by hiding product listings from specified brands </b>. The script aims to provide a personalized browsing experience for users interested in vintage and second-hand clothing without the clutter of undesired brands.
+This project contains a Userscript developed to enhance the shopping experience on Remixshop <b> by hiding product listings from specified brands </b>. The script aims to provide a personalized browsing experience for users interested in vintage and second-hand clothing without the clutter of undesired brands.
 
 #### FEATURES
 - Dynamically hides product listings from a predefined list of brands.
